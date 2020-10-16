@@ -48,10 +48,13 @@ h2 {
     color: white;
 }
 
-.cont-low{
-   
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
 }
+.carousel{
+    border: solid #e3e3e4;    
 
+}
 
 
 
