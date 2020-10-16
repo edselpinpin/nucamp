@@ -1,6 +1,7 @@
 body {
     font-family: "Open Sans", sans-serif;
     color: black;
+    background-image: linear-gradient(to right,rgb(245, 240, 240));
       
 }
 
@@ -10,12 +11,9 @@ h1, h2, h3 {
   
 }
 
-h2,h3 {
+h2 {
     color:  #60947c;
 }
-
-
-
 
 .site-footer {
     background-image: linear-gradient(to right,  #8ca39c,#8ca39d, #8ca39e);
@@ -48,6 +46,10 @@ h2,h3 {
 }
 .better-txt {
     color: white;
+}
+
+.cont-low{
+   
 }
 
 
